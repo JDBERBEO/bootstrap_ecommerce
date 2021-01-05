@@ -1,0 +1,85 @@
+#searchbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#carrusel {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#cards .card {
+    margin-top: 40px;
+}
+
+ul {
+	list-style: none;
+}
+
+button.btn.btn-outline-dark {
+    padding: .375rem .64rem;
+}
+
+.card-text {
+    min-height: 48px;
+}
+
+.card #modimg-1 {
+    margin: 0px;
+}
+
+.card #modimg-2 {
+    margin: 0px;
+}
+
+.card #modimg-3 {
+    margin: 0px;
+}
+
+.card #modimg-4 {
+    margin: 0px;
+}
+
+.card #modimg-4 {
+    margin: 0px;
+}
+
+#favorites {
+    margin-top: 16px;
+}
+
+#hipsterbadge {
+    margin-right: 3px;
+}
+
+#modulnav {
+    margin-top: 25px;
+}
+
+#descriptionp {
+    padding: 10px;
+    text-align: justify;
+}
+
+#card-text-comment {
+    min-height: 0px;
+}
+
+#card-comment.card {
+    margin-top: 25px;
+}
+
+#nav-profile.tab-pane.fade.active.show {
+    padding: 0px 16px;
+}
+
+
+/* div .card-body #modbud {
+    border: none;
+    padding: 3px;
+} */
+
+/* query
+.card-title {
+    min-height: 48px;
+} */
